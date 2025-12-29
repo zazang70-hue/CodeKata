@@ -13,7 +13,7 @@ int solution(int num1, int num2)
         {
             answer = -1;
         }
-        else if(num1 == num2)
+        else
         {
             answer = 1;
         }
