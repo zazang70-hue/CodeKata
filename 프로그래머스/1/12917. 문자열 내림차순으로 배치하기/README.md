@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 05일 09:15:49
+2026년 02월 05일 22:52:10
 
 ### 문제 설명
 
@@ -32,13 +32,13 @@ s는 영문 대소문자로만 구성되어 있으며, 대문자는 소문자보
 <h5>입출력 예</h5>
 <table class="table">
         <thead><tr>
-<th><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">에스</font></font></th>
-<th><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">반품</font></font></th>
+<th>s</th>
+<th>return</th>
 </tr>
 </thead>
         <tbody><tr>
-<td><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">"Zbcdefg"</font></font></td>
-<td><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">"gfedcbZ"</font></font></td>
+<td>"Zbcdefg"</td>
+<td>"gfedcbZ"</td>
 </tr>
 </tbody>
       </table>
